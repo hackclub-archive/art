@@ -1,4 +1,4 @@
-# Art
+# Art [DEPRECATED]
 
 This is where we keep our random acts of art. Feel free to add anything you've
 made to this listing.
